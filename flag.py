@@ -10,6 +10,9 @@ def draw_rectangle(color, width, height):
         turtle.right(90)
     turtle.end_fill()
 
+
+
+
 def draw_circle(color, radius, x, y):
     turtle.penup()
     turtle.goto(x, y)
