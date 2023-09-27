@@ -12,7 +12,6 @@ def draw_rectangle(color, width, height):
 
 
 
-
 def draw_circle(color, radius, x, y):
     turtle.penup()
     turtle.goto(x, y)
